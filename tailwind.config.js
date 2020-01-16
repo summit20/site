@@ -4,7 +4,8 @@ module.exports = {
       colors: {
         yellowish: '#ffe77a',
         blackish: '#1a2a30',
-        blue: '#358ccb'
+        blue: '#358ccb',
+        lightblue: '#38b5e6'
       },
       width: {
         '72': '18rem',
