@@ -92,6 +92,12 @@ ul, ol {
   @apply list-disc mb-4 ml-8;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .section {
   @apply my-10 text-left tracking-tight font-light text-lg;
 }
