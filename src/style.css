@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-  @apply text-blue-700;
+  @apply text-orange-700;
 }
 
 a.menu-item {
@@ -160,11 +160,11 @@ pre[data-line] code {
 pre .line-highlight {
   margin-top: 16px;
   background-image: none;
-  background-color: rgb(56, 181, 230,);
+  background-color: rgba(0, 255, 0, 0.12);
 }
 
 .token.operator, .token.entity, .token.url, .token.variable {
-  color: #38b5e6;
+  color: #ff8000;
   background: none;
 }
 
