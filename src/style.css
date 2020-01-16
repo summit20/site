@@ -92,6 +92,11 @@ ul, ol {
   @apply list-disc mb-4 ml-8;
 }
 
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+
 .center {
   display: block;
   margin-left: auto;
