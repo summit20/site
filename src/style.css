@@ -17,7 +17,7 @@ a {
 }
 
 a:hover {
-  @apply text-blue-700;
+  @apply hover:text-blue-700
 }
 
 a.menu-item {
