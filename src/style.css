@@ -160,7 +160,7 @@ pre[data-line] code {
 pre .line-highlight {
   margin-top: 16px;
   background-image: none;
-  background-color: rgba(56, 181, 230, 1);
+  background-color: rgb(56, 181, 230,);
 }
 
 .token.operator, .token.entity, .token.url, .token.variable {
